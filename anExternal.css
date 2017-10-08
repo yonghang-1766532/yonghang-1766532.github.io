@@ -1,0 +1,32 @@
+h1 {
+    color: black;
+    font-family: verdana;
+    font-size: 100%;
+}
+p  {
+    color: brown;
+    font-family: courier;
+    font-size: 100%;
+}
+img {
+    float: right;
+    margin: 0 0 10px 10px;
+}
+p.normal {
+    border: 2px solid red;
+}
+
+p.round1 {
+    border: 2px solid green;
+    border-radius: 5px;
+}
+
+p.round2 {
+    border: 2px solid purple;
+    border-radius: 8px;
+}
+
+p.round3 {
+    border: 2px solid orange;
+    border-radius: 12px;
+}
